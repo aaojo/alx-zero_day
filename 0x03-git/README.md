@@ -1,2 +1,2 @@
-GRIT is back
+GRIT always
 
